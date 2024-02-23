@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="103" viewBox="0 0 103 103">
+  <g id="Groupe_78" data-name="Groupe 78" transform="translate(-1530 -1939)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="51.5" cy="51.5" r="51.5" transform="translate(1530 1939)" fill="#fff"/>
+    <g id="hospital" transform="translate(1549 1958)">
+      <path id="Tracé_163" data-name="Tracé 163" d="M81,42H75V36H72v6H66v3h6v6h3V45h6Z" transform="translate(-40.5 -18)" fill="#1d04bf"/>
+      <path id="Tracé_164" data-name="Tracé 164" d="M51,24H48V15a3,3,0,0,0-3-3H21a3,3,0,0,0-3,3v9H15a3,3,0,0,0-3,3V54H54V27A3,3,0,0,0,51,24ZM30,51V42h6v9Zm9,0V40.5A1.5,1.5,0,0,0,37.5,39h-9A1.5,1.5,0,0,0,27,40.5V51H15V27h6V15H45V27h6V51Z" fill="#1d04bf"/>
+    </g>
+  </g>
+</svg>
